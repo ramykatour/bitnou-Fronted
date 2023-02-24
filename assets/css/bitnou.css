@@ -6952,10 +6952,10 @@ ul.progress-info { display: flex; justify-content: space-between; }
 }
 #slider-container {
   position: absolute;
-  height: 318px;
+  height: 164px;
   width: 90vw;
-  /*   max-width: 1500px; */
-  /* top: 0; */
+  max-width: 1500px;
+  top: 0;
   left: 0;
   right: 0;
   bottom: 0;
