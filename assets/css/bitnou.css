@@ -7010,7 +7010,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 }
 .a2 {
   font-size: 16px;
-  border: 20px solid #122272;
+  border: 8px solid #122272;
   width: auto;
   height: auto;
   background: white;
