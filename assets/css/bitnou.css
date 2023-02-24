@@ -6992,6 +6992,36 @@ ul.progress-info { display: flex; justify-content: space-between; }
   margin-left: auto;
   margin-right: auto;
 }
+.a1 {
+  border: 10px solid red;
+  width: auto;
+  height: auto;
+  background: black;
+  font-size: 0;
+}
+.a1 {
+  font-size: 16px;
+  border: 10px solid #122272;
+  width: auto;
+  height: auto;
+  background: white;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.a2 {
+  font-size: 16px;
+  border: 20px solid #122272;
+  width: auto;
+  height: auto;
+  background: white;
+  box-sizing: border-box;
+  display: inline-block;
+}
+.a1,
+.a2 {
+  vertical-align: top;
+}
+
 /* END @iO */
 /* END @iO */
 
